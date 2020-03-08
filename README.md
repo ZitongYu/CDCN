@@ -14,7 +14,7 @@ If you use the CDCN or CDL, please cite these three papers:
 >&nbsp;&nbsp;&nbsp;&nbsp;title={Searching Central Difference Convolutional Networks for Face Anti-Spoofing},      
 >&nbsp;&nbsp;&nbsp;&nbsp;author={Yu, Zitong and Zhao, Chenxu and Wang, Zezheng and Qin, Yunxiao and Su, Zhuo and Li, Xiaobai and Zhou, Feng and Zhao, Guoying},  
 >&nbsp;&nbsp;&nbsp;&nbsp;booktitle= {CVPR},  
->&nbsp;&nbsp;&nbsp;&nbsp;year = {2019}  
+>&nbsp;&nbsp;&nbsp;&nbsp;year = {2020}  
 >}  
 
 >@inproceedings{wang2020deep,  

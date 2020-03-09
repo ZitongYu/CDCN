@@ -2,7 +2,6 @@
 
 Main code of **CVPR2020 paper "Searching Central Difference Convolutional Networks for Face Anti-Spoofing"**   
 
-![image width="150" height="150"](https://github.com/ZitongYu/CDCN/blob/master/CDC.png) 
 
  It is just for **research purpose**, and commercial use is not allowed.
 

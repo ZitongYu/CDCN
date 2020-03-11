@@ -6,10 +6,10 @@ Main code of **CVPR2020 paper "Searching Central Difference Convolutional Networ
 
 Based on the **Central Difference Convolution (CDC)** and **Contrastive Depth Loss (CDL)**, we achieved
 
-**1st Place** in ChaLearn Multi-Model Face Anti-spoofing Attack Detection Challenge @CVPR2020
+**1st Place** in ChaLearn Multi-Modal Face Anti-spoofing Attack Detection Challenge @CVPR2020
 
 
-**2nd Place** in ChaLearn Single-Model(RGB) Face Anti-spoofing Attack Detection Challenge @CVPR2020
+**2nd Place** in ChaLearn Single-Modal(RGB) Face Anti-spoofing Attack Detection Challenge @CVPR2020
 
 -------
  It is just for **research purpose**, and commercial use is not allowed.

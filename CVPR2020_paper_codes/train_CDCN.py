@@ -239,7 +239,7 @@ def train_test():
 
         
         #model = CDCN(basic_conv=Conv2d_cd, theta=0.7)
-		model = CDCNpp(basic_conv=Conv2d_cd, theta=0.7)
+	model = CDCNpp(basic_conv=Conv2d_cd, theta=0.7)
         
 
 

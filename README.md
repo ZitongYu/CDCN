@@ -1,6 +1,6 @@
 # CDCN
 
-Main code of **CVPR2020 paper "Searching Central Difference Convolutional Networks for Face Anti-Spoofing"**   
+Main code of [[**CVPR2020 paper "Searching Central Difference Convolutional Networks for Face Anti-Spoofing"**  ]](https://arxiv.org/pdf/2003.04092v1.pdf) 
 
 ------
 

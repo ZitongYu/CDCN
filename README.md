@@ -28,7 +28,7 @@ If you use the CDCN or CDL, please cite these three papers:
  >@inproceedings{wang2020deep,  
  >&nbsp;&nbsp;&nbsp;&nbsp;title={Deep Spatial Gradient and Temporal Depth Learning for Face Anti-spoofing},      
  >&nbsp;&nbsp;&nbsp;&nbsp;author={Wang, Zezheng and Yu, Zitong and Zhao, Chenxu and Zhu, Xiangyu and Qin, Yunxiao and Zhou, Qiusheng and Zhou, Feng and Lei, Zhen},  
- >&nbsp;&nbsp;&nbsp;&nbsp;booktitle= {CVPR},  
+ >&nbsp;&nbsp;&nbsp;&nbsp;booktitle= {CVPR (Oral)},  
  >&nbsp;&nbsp;&nbsp;&nbsp;year = {2020}  
  >}  
 

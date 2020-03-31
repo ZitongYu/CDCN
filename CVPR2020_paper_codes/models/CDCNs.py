@@ -55,7 +55,7 @@ class Conv2d_cd(nn.Module):
             [C_out,C_in, kernel_size,kernel_size] = self.conv.weight.shape
             kernel_diff = self.conv.weight.sum(2).sum(2)
             kernel_diff = kernel_diff[:, :, None, None]
-            out_diff = F.conv2d(input=x, weight=kernel_diff, bias=self.conv.bias, stride=self.conv.stride, padding=0, dilation=self.conv.dilation, groups=self.conv.groups)
+            out_diff = F.conv2d(input=x, weight=kernel_diff, bias=self.conv.bias, stride=self.conv.stride, padding=0, groups=self.conv.groups)
 
             return out_normal - self.theta * out_diff
 

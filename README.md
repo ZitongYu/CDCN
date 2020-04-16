@@ -16,7 +16,7 @@ Based on the **Central Difference Convolution (CDC)** and **Contrastive Depth Lo
 
 Citation
 ------- 
-If you use the CDCN or CDL, please cite these three papers:  
+If you use the CDCN or CDL, please cite these four papers:  
 
  >@inproceedings{yu2020searching,  
  >&nbsp;&nbsp;&nbsp;&nbsp;title={Searching Central Difference Convolutional Networks for Face Anti-Spoofing},      
@@ -36,5 +36,12 @@ If you use the CDCN or CDL, please cite these three papers:
  >&nbsp;&nbsp;&nbsp;&nbsp;title={Learning Meta Model for Zero-and Few-shot Face Anti-spoofing},      
  >&nbsp;&nbsp;&nbsp;&nbsp;author={Qin, Yunxiao and Zhao, Chenxu and Zhu, Xiangyu and Wang, Zezheng and Yu, Zitong and Fu, Tianyu and Zhou, Feng and Shi, Jingping and Lei, Zhen},  
  >&nbsp;&nbsp;&nbsp;&nbsp;booktitle= {AAAI},  
+ >&nbsp;&nbsp;&nbsp;&nbsp;year = {2020}  
+ >}  
+
+ >@inproceedings{yu2020multi,  
+ >&nbsp;&nbsp;&nbsp;&nbsp;title={Multi-Modal Face Anti-Spoofing Based on Central Difference Networks},      
+ >&nbsp;&nbsp;&nbsp;&nbsp;author={Yu, Zitong and Qin, Yunxiao and Li, Xiaobai and Wang, Zezheng and Zhao, Chenxu and Lei, Zhen and Zhao, Guoying},  
+ >&nbsp;&nbsp;&nbsp;&nbsp;booktitle= {CVPR Workshop},  
  >&nbsp;&nbsp;&nbsp;&nbsp;year = {2020}  
  >}  

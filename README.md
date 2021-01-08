@@ -16,7 +16,14 @@ Based on the **Central Difference Convolution (CDC)** and **Contrastive Depth Lo
 
 Citation
 ------- 
-If you use the CDCN or CDL, please cite these four papers:  
+If you use the CDCN or CDL, please cite these five papers:  
+
+>@inproceedings{yu2020nasfas,  
+ >&nbsp;&nbsp;&nbsp;&nbsp;title={NAS-FAS: Static-Dynamic Central Difference Network Search for Face Anti-Spoofing},      
+ >&nbsp;&nbsp;&nbsp;&nbsp;author={Yu, Zitong and Wan, Jun and Qin, Yunxiao and Li, Xiaobai and Li, Stan Z. and Zhao, Guoying},  
+ >&nbsp;&nbsp;&nbsp;&nbsp;booktitle= {TPAMI},  
+ >&nbsp;&nbsp;&nbsp;&nbsp;year = {2020}  
+ >}  
 
  >@inproceedings{yu2020searching,  
  >&nbsp;&nbsp;&nbsp;&nbsp;title={Searching Central Difference Convolutional Networks for Face Anti-Spoofing},      

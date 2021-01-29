@@ -32,6 +32,13 @@ If you use the CDCN or CDL, please cite these five papers:
  >&nbsp;&nbsp;&nbsp;&nbsp;year = {2020}  
  >}  
 
+ >@inproceedings{yu2020multi,  
+ >&nbsp;&nbsp;&nbsp;&nbsp;title={Face Anti-spoofing with Human Material Perception},      
+ >&nbsp;&nbsp;&nbsp;&nbsp;author={Yu, Zitong and Li, Xiaobai and Niu, Xuesong and Shi, Jingang and Zhao, Guoying},  
+ >&nbsp;&nbsp;&nbsp;&nbsp;booktitle= {ECCV},  
+ >&nbsp;&nbsp;&nbsp;&nbsp;year = {2020}  
+ >}  
+
  >@inproceedings{wang2020deep,  
  >&nbsp;&nbsp;&nbsp;&nbsp;title={Deep Spatial Gradient and Temporal Depth Learning for Face Anti-spoofing},      
  >&nbsp;&nbsp;&nbsp;&nbsp;author={Wang, Zezheng and Yu, Zitong and Zhao, Chenxu and Zhu, Xiangyu and Qin, Yunxiao and Zhou, Qiusheng and Zhou, Feng and Lei, Zhen},  
@@ -46,9 +53,4 @@ If you use the CDCN or CDL, please cite these five papers:
  >&nbsp;&nbsp;&nbsp;&nbsp;year = {2020}  
  >}  
 
- >@inproceedings{yu2020multi,  
- >&nbsp;&nbsp;&nbsp;&nbsp;title={Multi-Modal Face Anti-Spoofing Based on Central Difference Networks},      
- >&nbsp;&nbsp;&nbsp;&nbsp;author={Yu, Zitong and Qin, Yunxiao and Li, Xiaobai and Wang, Zezheng and Zhao, Chenxu and Lei, Zhen and Zhao, Guoying},  
- >&nbsp;&nbsp;&nbsp;&nbsp;booktitle= {CVPR Workshop},  
- >&nbsp;&nbsp;&nbsp;&nbsp;year = {2020}  
- >}  
+

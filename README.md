@@ -25,6 +25,13 @@ If you use the CDCN or CDL, please cite these five papers:
  >&nbsp;&nbsp;&nbsp;&nbsp;year = {2020}  
  >}  
 
+ >@inproceedings{yu2021dual,  
+ >&nbsp;&nbsp;&nbsp;&nbsp;title={Dual-Cross Central Difference Network for Face Anti-Spoofing},      
+ >&nbsp;&nbsp;&nbsp;&nbsp;author={Yu, Zitong and Qin, Yunxiao and Zhao, Hengshuang and Li, Xiaobai and Zhao, Guoying},  
+ >&nbsp;&nbsp;&nbsp;&nbsp;booktitle= {IJCAI},  
+ >&nbsp;&nbsp;&nbsp;&nbsp;year = {2021}  
+ >}  
+
  >@inproceedings{yu2020searching,  
  >&nbsp;&nbsp;&nbsp;&nbsp;title={Searching Central Difference Convolutional Networks for Face Anti-Spoofing},      
  >&nbsp;&nbsp;&nbsp;&nbsp;author={Yu, Zitong and Zhao, Chenxu and Wang, Zezheng and Qin, Yunxiao and Su, Zhuo and Li, Xiaobai and Zhou, Feng and Zhao, Guoying},  
